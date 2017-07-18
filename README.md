@@ -4,9 +4,12 @@
 
 File structure should be as follows:
 .
-├── housing_data \n
+├── housing_data
+
 │   ├── data_exploration.ipynb
+
 │   └── README.md
+
 └── Zillow
     ├── properties_2016.csv
     ├── sample_submission.csv
