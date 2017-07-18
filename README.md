@@ -4,7 +4,7 @@
 
 File structure should be as follows:
 .
-├── housing_data
+├── housing_data \n
 │   ├── data_exploration.ipynb
 │   └── README.md
 └── Zillow
